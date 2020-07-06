@@ -432,11 +432,13 @@ table th {
   }
 
   .navbar h1 {
-    margin-bottom: 0.6rem;
+    margin-top: 0.2rem;
+    margin-bottom: 0.2rem;
   }
 
   .navbar ul {
     text-align: center;
     justify-content: center;
   }
+  
 }
