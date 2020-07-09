@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://<USERNAME>:<PASSWORD>@cluster0.sxsnd.mongodb.net/ContactKeeperDB?retryWrites=true&w=majority",
-  "jwtSecret": "<SECRET>"
+  "mongoURI": "mongodb+srv://BruinKathy:Secret1234@cluster0.sxsnd.mongodb.net/ContactKeeperDB?retryWrites=true&w=majority",
+  "jwtSecret": "secretKathy123"
 }
